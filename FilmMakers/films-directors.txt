@@ -1,0 +1,29 @@
+Steven Spielberg,Jurassic Park,2,$0.034 billion
+Russo brothers,Avengers: Endgame,2,$2.798 billion
+David Yates,Harry Potter and the Philosopher stone,5,$0.342 billion
+Peter Jackson,The Lord of the Rings: The Return of the King,4,$0.42 billion
+Michael Bay,Transformers: Dark of the Moon,1,$0.24 billion
+Steven Spielberg,Jurassic Park 2,2,$0.034 billion
+James Cameron,Avatar,2,$2.790 billion
+David Yates,Harry Potter and the Deathly Hallows: Part 2,5,$0.342 billion
+Christopher Nolan,The Dark Knight Rises,2,$0.084 billion
+J. J. Abrams,Star Wars: The Force Awakens,2,$2.068 billion
+Tim Burton,Alice in Wonderland,1,$0.025 billion
+Peter Jackson,The Lord of the Rings: The two towers,2,$0.42 billion
+Jon Favreau,The Lion King,2,$0.657 billion
+Steven Spielberg,Jurassic Park 2,2,$0.034 billion
+Steven Spielberg,E.T. the Extra-Terrestrial,2,$435.0 million
+Michael Bay,Transformers: Revenge of the Fallen,1,$402.0 million
+David Yates,Harry Potter and the Deathly Hallows: Part 1,5,$0.342 billion
+Ron Howard,How the Grinch Stole Christmas,1,$260.0 million
+Robert Zemeckis,Forrest Gump,2,$330.5 million
+Christopher Nolan,The Dark Knight,2,$535.2 million
+Steven Spielberg,Jurassic Park 5,2,$0.034 billion
+Clint Eastwood,American Sniper,1,$350. million
+Peter Jackson,The Lord of the Rings: The Fellowship of the ring,5,$0.42 billion
+David Yates,Harry Potter and the Chamber of secret,5,$0.342 billion
+David Yates,Harry Potter and the Prisoner of Askaban,5,$0.342 billion
+David Yates,Harry Potter and the Goblet of fire,5,$0.342 billion
+David Yates,Harry Potter and the Order of Pxenix,5,$0.342 billion
+David Yates,Harry Potter and the Halfblod prince,5,$0.342 billion
+Dragan Bjelogrlic, Senke nad balkanom,5,$1.0 million
